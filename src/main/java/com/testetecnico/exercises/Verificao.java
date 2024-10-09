@@ -2,7 +2,7 @@ package com.testetecnico.exercises;
 
 import java.util.Scanner;
 
-public class Verificao {
+public class Verificacao {
 
     public static void main(String[] args) {
        
